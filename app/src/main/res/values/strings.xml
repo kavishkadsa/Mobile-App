@@ -1,0 +1,18 @@
+<resources>
+    <string name="menu_home">Home</string>
+    <string name="menu_order">Order Now</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_History">History</string>
+    <string name="menu_logout">Logout</string>
+    <string name="category_pizza">Pizza</string>
+    <string name="category_burger">Burger</string>
+    <string name="category_hot_dog">Hot Dog</string>
+    <string name="category_pasta">Pasta</string>
+    <string name="category_beverages">Beverages</string>
+    <string name="btn_add_to_cart">Add to Cart</string>
+    <string name="btn_checkout">Checkout</string>
+    <string name="btn_confirm_order">Confirm Order</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+</resources>

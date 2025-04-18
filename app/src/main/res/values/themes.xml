@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MadLabExam2" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#930101</item>
+        <item name="colorPrimaryVariant">#700000</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#F8F8F8</item>
+    </style>
+</resources>

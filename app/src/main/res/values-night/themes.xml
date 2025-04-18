@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.MadLabExam2" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">#FF6B6B</item> <!-- Lighter red for dark mode -->
+        <item name="colorPrimaryVariant">#CC5555</item>
+        <item name="colorOnPrimary">@android:color/black</item>
+        <item name="android:windowBackground">#121212</item> <!-- Dark background -->
+    </style>
+</resources>
